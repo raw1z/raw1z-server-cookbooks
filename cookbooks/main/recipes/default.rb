@@ -1,4 +1,7 @@
 # mysql
+node['mysql']['server_debian_password'] = "myrootpasswd"
+node['mysql']['server_root_password']   = "myrootpasswd"
+node['mysql']['server_repl_password']   = "myrootpasswd"
 include_recipe "mysql::server"
 
 # rvm
