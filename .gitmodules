@@ -4,3 +4,6 @@
 [submodule "cookbooks/passenger"]
 	path = cookbooks/passenger
 	url = git://github.com/cookbooks/passenger.git
+[submodule "cookbooks/mysql"]
+	path = cookbooks/mysql
+	url = git://github.com/cookbooks/mysql.git
