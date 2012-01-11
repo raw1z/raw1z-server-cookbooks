@@ -1,3 +1,6 @@
 [submodule "cookbooks/rvm"]
 	path = cookbooks/rvm
 	url = git://github.com/fnichol/chef-rvm.git
+[submodule "cookbooks/passenger"]
+	path = cookbooks/passenger
+	url = git://github.com/cookbooks/passenger.git
