@@ -7,3 +7,6 @@
 [submodule "cookbooks/mysql"]
 	path = cookbooks/mysql
 	url = git://github.com/cookbooks/mysql.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = git://github.com/cookbooks/openssl.git
